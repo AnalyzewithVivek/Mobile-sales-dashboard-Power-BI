@@ -46,7 +46,7 @@ This dashboard provides a comprehensive, interactive view of mobile sales perfor
 
 ## **Dashboard Preview**
 <p align="center">
-  <img src="your-dashboard-image-or-gif-link-here" alt="Mobile Sales Dashboard" width="800">
+  <img src="Image.png" alt="Mobile Sales Dashboard" width="800">
 </p>
 
 ---
